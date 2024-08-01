@@ -1,2 +1,8 @@
 first i create input call date to inpute the date as you see in project 
 scrape the top 100 song titles on that date into a Python List.
+then authentication with spotify by using Oauth 
+then from the list that i created (look at line 2)  we get the songs and search it on spotify and get it on uris_list
+finally we create a new playlist on spotify by add the songs on uris_list
+hint i use .env to client id and client secret id and uri 
+
+
